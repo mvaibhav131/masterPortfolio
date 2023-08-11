@@ -88,7 +88,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using React-Redux & NextJS.",
         "⚡ Developing mobile applications using Flutter & React Native .",
         "⚡ Developing desktop applications using ElectronJS .",
         "⚡ Testing the applications using Cypress,Jest,Supertest,Mocha,Chai.",
@@ -189,10 +189,10 @@ const skills = {
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:netflix",
           style: {
-            color: "#02569B",
+            color: "#000000",
           },
         },
         {
