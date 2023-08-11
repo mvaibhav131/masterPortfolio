@@ -90,8 +90,9 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end using React-Redux",
         "⚡ Developing mobile applications using Flutter & React Native .",
-        "⚡ Testing the applications using Cypress,Selenium,Jest,Mocha,Chai.",
-        "⚡ Creating application backend in Node, Express.",
+        "⚡ Developing desktop applications using ElectronJS .",
+        "⚡ Testing the applications using Cypress,Jest,Supertest,Mocha,Chai.",
+        "⚡ Creating application backend in NodeJS, Express, NestJS.",
       ],
       softwareSkills: [
         {
@@ -139,6 +140,13 @@ const skills = {
           },
         },
         {
+          skillName: "Express",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
@@ -167,10 +175,17 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "NestJs",
+          fontAwesomeClassname: "simple-icons:nestjs",
           style: {
-            color: "#663399",
+            color: "red",
+          },
+        },
+        {
+          skillName: "Chai",
+          fontAwesomeClassname: "simple-icons:chai",
+          style: {
+            color: "#E34F26",
           },
         },
         {
@@ -235,10 +250,10 @@ const skills = {
           },
         },
         {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
+          skillName: "GoDaddy",
+          fontAwesomeClassname: "simple-icons:godaddy",
           style: {
-            color: "#4285N5",
+            color: "#1488C6",
           },
         },
         {
@@ -246,6 +261,13 @@ const skills = {
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Insomnia",
+          fontAwesomeClassname: "simple-icons:insomnia",
+          style: {
+            color: "#336791",
           },
         },
         {
@@ -290,6 +312,13 @@ const skills = {
             color: "#326CE5",
           },
         },
+        {
+          skillName: "Netlify",
+          fontAwesomeClassname: "simple-icons:netlify",
+          style: {
+            color: "#4285N5",
+          },
+        },
       ],
     },
     
@@ -329,6 +358,49 @@ const skills = {
           style: {
             color: "#000000",
           },
+        },
+      ],
+    },
+    {
+      title: "Data Management & ML",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Experience of working with Database Management and Queries handling in projects.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Apache Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "black",
+          },
+        },
+        {
+          skillName: "Mongoose",
+          fontAwesomeClassname: "simple-icons:mongoose",
+          style: {
+            backgroundColor: "",
+            color: "red",
+          },
+        },
+        {
+          skillName: "RabbitMQ",
+          fontAwesomeClassname: "simple-icons:rabbitmq",
+          style: {
+            color: "orange",
+          },
+        },
+        {
+          skillName: "Elastic Search",
+          fontAwesomeClassname: "logos-elasticsearch",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Redis",
+          fontAwesomeClassname: "logos-redis",
         },
       ],
     },
