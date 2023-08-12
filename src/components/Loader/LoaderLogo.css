@@ -2,3 +2,30 @@
   height: 305;
   width: 440;
 }
+/* LoaderLogo.css */
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #000000;
+}
+
+.zoom-effect {
+  animation: zoomInOut 2s infinite;
+  display: inline-block;
+}
+
+@keyframes zoomInOut {
+  0%, 100% {
+    transform: scale(2);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.zoom-effect img {
+  width: 300px;
+  height: auto;
+}

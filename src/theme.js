@@ -10,7 +10,7 @@ export const blueTheme = {
   compImgHighlight: "#E6E6E6",
   jacketColor: "#0A2472",
   headerColor: "#0E6BA877",
-  splashBg: "#001C55",
+  splashBg: "black",
 };
 
 export const brownTheme = {
