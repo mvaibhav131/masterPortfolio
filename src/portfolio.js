@@ -416,7 +416,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/mvaibhav131/",
     },
     {
       siteName: "HackerRank",
@@ -424,7 +424,23 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/vaibhavmore2018/",
+    },
+    {
+      siteName: "Postman",
+      iconifyClassname: "simple-icons:postman",
+      style: {
+        color: "orange",
+      },
+      profileLink: "https://www.postman.com/mvaibhav131",
+    },
+    {
+      siteName: "Notion",
+      iconifyClassname: "simple-icons:notion",
+      style: {
+        color: "black",
+      },
+      profileLink: "https://coderbyte.com/profile/mvaibhav131",
     },
     {
       siteName: "Codechef",
@@ -432,7 +448,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/mvaibhav131",
     },
     {
       siteName: "Codeforces",
@@ -440,7 +456,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "https://codeforces.com/profile/mvaibhav131",
     },
     {
       siteName: "Hackerearth",
@@ -448,7 +464,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@mvaibhav131",
     },
     {
       siteName: "Kaggle",
@@ -456,7 +472,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/mvaibhav131",
     },
   ],
 };
