@@ -1,1 +1,197 @@
-{"data":[{"id":"I_kwDOJ0OBn85uVHk4","closed":false,"title":"pie , donut chart implemention","createdAt":"2023-08-15T07:41:42Z","url":"https://github.com/mvaibhav131/react_charts/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"react_charts","url":"https://github.com/mvaibhav131/react_charts","owner":{"login":"mvaibhav131","avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","url":"https://github.com/mvaibhav131"}}},{"id":"I_kwDOJUWCZs5uVGVD","closed":false,"title":"implement nodemailer feature","createdAt":"2023-08-15T07:36:29Z","url":"https://github.com/mvaibhav131/sendGmail_Nodemailer/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"sendGmail_Nodemailer","url":"https://github.com/mvaibhav131/sendGmail_Nodemailer","owner":{"login":"mvaibhav131","avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","url":"https://github.com/mvaibhav131"}}},{"id":"I_kwDOJklJXM5uVF2f","closed":false,"title":"redux-feature","createdAt":"2023-08-15T07:34:21Z","url":"https://github.com/mvaibhav131/react-redux-todo/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"react-redux-todo","url":"https://github.com/mvaibhav131/react-redux-todo","owner":{"login":"mvaibhav131","avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","url":"https://github.com/mvaibhav131"}}},{"id":"I_kwDOHrlyi85OCtl7","closed":true,"title":"Ayurvedic Care functionality and Order page","createdAt":"2022-07-19T10:47:05Z","url":"https://github.com/Monicapriya/vogue-pocket-8479/issues/15","number":15,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","name":"Vaibhav More","url":"https://github.com/mvaibhav131"}]},"repository":{"name":"vogue-pocket-8479","url":"https://github.com/Monicapriya/vogue-pocket-8479","owner":{"login":"Monicapriya","avatarUrl":"https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4","url":"https://github.com/Monicapriya"}}},{"id":"I_kwDOHrlyi85OCtGL","closed":true,"title":"Ayurvedic Care","createdAt":"2022-07-19T10:45:23Z","url":"https://github.com/Monicapriya/vogue-pocket-8479/issues/13","number":13,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","name":"Vaibhav More","url":"https://github.com/mvaibhav131"}]},"repository":{"name":"vogue-pocket-8479","url":"https://github.com/Monicapriya/vogue-pocket-8479","owner":{"login":"Monicapriya","avatarUrl":"https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4","url":"https://github.com/Monicapriya"}}},{"id":"I_kwDOHrlyi85OCsfW","closed":true,"title":"Create slider","createdAt":"2022-07-19T10:43:09Z","url":"https://github.com/Monicapriya/vogue-pocket-8479/issues/10","number":10,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","name":"Vaibhav More","url":"https://github.com/mvaibhav131"}]},"repository":{"name":"vogue-pocket-8479","url":"https://github.com/Monicapriya/vogue-pocket-8479","owner":{"login":"Monicapriya","avatarUrl":"https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4","url":"https://github.com/Monicapriya"}}},{"id":"I_kwDOHrlyi85OCrnd","closed":true,"title":"Health care data","createdAt":"2022-07-19T10:39:57Z","url":"https://github.com/Monicapriya/vogue-pocket-8479/issues/8","number":8,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","name":"Vaibhav More","url":"https://github.com/mvaibhav131"}]},"repository":{"name":"vogue-pocket-8479","url":"https://github.com/Monicapriya/vogue-pocket-8479","owner":{"login":"Monicapriya","avatarUrl":"https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4","url":"https://github.com/Monicapriya"}}},{"id":"I_kwDOHrlyi85OCqPo","closed":true,"title":"HealthCare product","createdAt":"2022-07-19T10:34:50Z","url":"https://github.com/Monicapriya/vogue-pocket-8479/issues/6","number":6,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4","name":"Vaibhav More","url":"https://github.com/mvaibhav131"}]},"repository":{"name":"vogue-pocket-8479","url":"https://github.com/Monicapriya/vogue-pocket-8479","owner":{"login":"Monicapriya","avatarUrl":"https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4","url":"https://github.com/Monicapriya"}}}],"open":3,"closed":5,"totalCount":8}
+{
+    "data": [
+        {
+            "id": "I_kwDOJ0OBn85uVHk4",
+            "closed": false,
+            "title": "pie , donut chart implemention",
+            "createdAt": "2023-08-15T07:41:42Z",
+            "url": "https://github.com/mvaibhav131/react_charts/issues/1",
+            "number": 1,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "react_charts",
+                "url": "https://github.com/mvaibhav131/react_charts",
+                "owner": {
+                    "login": "mvaibhav131",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                    "url": "https://github.com/mvaibhav131"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJUWCZs5uVGVD",
+            "closed": false,
+            "title": "implement nodemailer feature",
+            "createdAt": "2023-08-15T07:36:29Z",
+            "url": "https://github.com/mvaibhav131/sendGmail_Nodemailer/issues/1",
+            "number": 1,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "sendGmail_Nodemailer",
+                "url": "https://github.com/mvaibhav131/sendGmail_Nodemailer",
+                "owner": {
+                    "login": "mvaibhav131",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                    "url": "https://github.com/mvaibhav131"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJklJXM5uVF2f",
+            "closed": false,
+            "title": "redux-feature",
+            "createdAt": "2023-08-15T07:34:21Z",
+            "url": "https://github.com/mvaibhav131/react-redux-todo/issues/1",
+            "number": 1,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "react-redux-todo",
+                "url": "https://github.com/mvaibhav131/react-redux-todo",
+                "owner": {
+                    "login": "mvaibhav131",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                    "url": "https://github.com/mvaibhav131"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHrlyi85OCtl7",
+            "closed": true,
+            "title": "Ayurvedic Care functionality and Order page",
+            "createdAt": "2022-07-19T10:47:05Z",
+            "url": "https://github.com/Monicapriya/vogue-pocket-8479/issues/15",
+            "number": 15,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                        "name": "Vaibhav More",
+                        "url": "https://github.com/mvaibhav131"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "vogue-pocket-8479",
+                "url": "https://github.com/Monicapriya/vogue-pocket-8479",
+                "owner": {
+                    "login": "Monicapriya",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4",
+                    "url": "https://github.com/Monicapriya"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHrlyi85OCtGL",
+            "closed": true,
+            "title": "Ayurvedic Care",
+            "createdAt": "2022-07-19T10:45:23Z",
+            "url": "https://github.com/Monicapriya/vogue-pocket-8479/issues/13",
+            "number": 13,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                        "name": "Vaibhav More",
+                        "url": "https://github.com/mvaibhav131"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "vogue-pocket-8479",
+                "url": "https://github.com/Monicapriya/vogue-pocket-8479",
+                "owner": {
+                    "login": "Monicapriya",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4",
+                    "url": "https://github.com/Monicapriya"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHrlyi85OCsfW",
+            "closed": true,
+            "title": "Create slider",
+            "createdAt": "2022-07-19T10:43:09Z",
+            "url": "https://github.com/Monicapriya/vogue-pocket-8479/issues/10",
+            "number": 10,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                        "name": "Vaibhav More",
+                        "url": "https://github.com/mvaibhav131"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "vogue-pocket-8479",
+                "url": "https://github.com/Monicapriya/vogue-pocket-8479",
+                "owner": {
+                    "login": "Monicapriya",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4",
+                    "url": "https://github.com/Monicapriya"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHrlyi85OCrnd",
+            "closed": true,
+            "title": "Health care data",
+            "createdAt": "2022-07-19T10:39:57Z",
+            "url": "https://github.com/Monicapriya/vogue-pocket-8479/issues/8",
+            "number": 8,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                        "name": "Vaibhav More",
+                        "url": "https://github.com/mvaibhav131"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "vogue-pocket-8479",
+                "url": "https://github.com/Monicapriya/vogue-pocket-8479",
+                "owner": {
+                    "login": "Monicapriya",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4",
+                    "url": "https://github.com/Monicapriya"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHrlyi85OCqPo",
+            "closed": true,
+            "title": "HealthCare product",
+            "createdAt": "2022-07-19T10:34:50Z",
+            "url": "https://github.com/Monicapriya/vogue-pocket-8479/issues/6",
+            "number": 6,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/98808183?u=136e338b1951f2e2c49e9f8e518afceffc82f2aa&v=4",
+                        "name": "Vaibhav More",
+                        "url": "https://github.com/mvaibhav131"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "vogue-pocket-8479",
+                "url": "https://github.com/Monicapriya/vogue-pocket-8479",
+                "owner": {
+                    "login": "Monicapriya",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/100186167?u=53f7908669b364afa8b2e0e9593053b2cb1084e1&v=4",
+                    "url": "https://github.com/Monicapriya"
+                }
+            }
+        }
+    ],
+    "open": 3,
+    "closed": 5,
+    "totalCount": 8
+}

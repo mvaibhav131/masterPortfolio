@@ -154,6 +154,13 @@ const skills = {
           },
         },
         {
+          skillName: "Webpack",
+          fontAwesomeClassname: "logos-webpack",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
@@ -376,6 +383,13 @@ const skills = {
         {
           skillName: "Inkscape",
           fontAwesomeClassname: "simple-icons:inkscape",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Jira",
+          fontAwesomeClassname: "logos:jira",
           style: {
             color: "#000000",
           },

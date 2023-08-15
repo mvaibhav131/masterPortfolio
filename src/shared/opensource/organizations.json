@@ -1,1 +1,170 @@
-{"data":[{"login":"masai-course","avatarUrl":"https://avatars.githubusercontent.com/u/61222534?v=4","__typename":"Organization"}]}
+
+{
+    "data": [
+        {
+            "login": "masai-course",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/61222534?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "VS Code",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/61069792?s=280&v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "MERN",
+            "avatarUrl": "https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/mernfullstackwebdevelopercertificationtraining-mobile.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Prettier",
+            "avatarUrl": "https://prettier.io/icon.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "ESLint",
+            "avatarUrl": "https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Jira",
+            "avatarUrl": "https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "React",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/11823761?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Kubernetes",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Typescript",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Docker",
+            "avatarUrl": "https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Yarn",
+            "avatarUrl": "https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "NPM",
+            "avatarUrl": "https://cdn.worldvectorlogo.com/logos/npm-2.svg",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Linux",
+            "avatarUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a4/54f3b90a5d4aa29c1d838fa815dbf6/LFCA.png?auto=format%2Ccompress&dpr=1",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Github",
+            "avatarUrl": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Postgressql",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "GitLab",
+            "avatarUrl": "https://mattermost.com/wp-content/uploads/2021/03/GitLab-2.webp",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Nodemailer",
+            "avatarUrl": "https://medusajs.com/images/plugin-icons/market-plugin-nodemailer-icon.svg",
+            "__typename": "Organization"
+        },
+        {
+            "login": "AWS",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Coderbyte",
+            "avatarUrl": "https://yt3.googleusercontent.com/ytc/AOPolaRC2m-jmCFpRJu-UV5eaLTuoIa5ByGAxX-XSPxAFQ=s900-c-k-c0x00ffffff-no-rj",
+            "__typename": "Organization"
+        },
+        {
+            "login": "HackerEarth",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Leetcode",
+            "avatarUrl": "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "CodeSandbox",
+            "avatarUrl": "https://cdn.iconscout.com/icon/free/png-256/free-code-sandbox-3445516-2878443.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Ratatype",
+            "avatarUrl": "https://media.licdn.com/dms/image/C510BAQFAzW-qZTFDWg/company-logo_200_200/0/1586666031343?e=2147483647&v=beta&t=RVz_gplWEZMOHr1k9tzWKXRP1HUb7_av_IBYsI2j8DY",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Elastic Search",
+            "avatarUrl": "https://assets.zabbix.com/img/brands/elastic.svg",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Kibana",
+            "avatarUrl": "https://w7.pngwing.com/pngs/131/974/png-transparent-kibana-elasticsearch-scalable-graphics-logo-logstash-chess24-angle-text-rectangle.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Apache Kafka",
+            "avatarUrl": "https://www.atr.cs.kent.edu/wp-content/uploads/2019/11/apache-kafka-300x300.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "firebase",
+            "avatarUrl": "https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Mattermost",
+            "avatarUrl": "https://play-lh.googleusercontent.com/QD4SKMtu6AwMskBXzCWpEravc9BHiyc9YTQGC8-9ue_4XcBw1vDDGE9DaJDd0S_cUw",
+            "__typename": "Organization"
+        }, 
+        {
+            "login": "Google Meet",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/1200px-Google_Meet_icon_%282020%29.svg.png",
+            "__typename": "Organization"
+        }, 
+        {
+            "login": "Slack",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/1461144163789983748/N5iAWd2d_400x400.jpg",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Chat",
+            "avatarUrl": "https://play-lh.googleusercontent.com/cF_oWC9Io_I9smEBhjhUHkOO6vX5wMbZJgFpGny4MkMMtz25iIJEh2wASdbbEN7jseAx",
+            "__typename": "Organization"
+        },  
+        {
+            "login": "Zoom",
+            "avatarUrl": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
+            "__typename": "Organization"
+        },
+        {
+            "login": "Microsoft Team's",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+            "__typename": "Organization"
+        }
+    ]
+}
