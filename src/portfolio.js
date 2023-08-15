@@ -89,9 +89,9 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux & NextJS.",
-        "⚡ Developing mobile applications using Flutter & React Native .",
+        "⚡ Developing mobile applications using React Native .",
         "⚡ Developing desktop applications using ElectronJS .",
-        "⚡ Testing the applications using Cypress,Jest,Supertest,Mocha,Chai.",
+        "⚡ Testing applications using Cypress,Jest,Selenium,Supertest,Mocha.",
         "⚡ Creating application backend in NodeJS, Express, NestJS.",
       ],
       softwareSkills: [
@@ -111,7 +111,7 @@ const skills = {
         },
         {
           skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          fontAwesomeClassname: "logos:sass",
           style: {
             color: "#CC6699",
           },
@@ -141,7 +141,14 @@ const skills = {
         },
         {
           skillName: "Express",
-          fontAwesomeClassname: "simple-icons:express",
+          fontAwesomeClassname: "skill-icons:expressjs-dark",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "logos-java",
           style: {
             color: "#61DAFB",
           },
@@ -162,7 +169,7 @@ const skills = {
         },
         {
           skillName: "Electron JS",
-          fontAwesomeClassname: "simple-icons:electron",
+          fontAwesomeClassname: "logos:electron",
           style: {
             color: "#CB3800",
           },
@@ -176,49 +183,56 @@ const skills = {
         },
         {
           skillName: "NestJs",
-          fontAwesomeClassname: "simple-icons:nestjs",
+          fontAwesomeClassname: "logos:nestjs",
           style: {
             color: "red",
           },
         },
         {
           skillName: "Chai",
-          fontAwesomeClassname: "simple-icons:chai",
+          fontAwesomeClassname: "logos:chai",
           style: {
             color: "#E34F26",
           },
         },
         {
-          skillName: "NextJS",
-          fontAwesomeClassname: "simple-icons:netflix",
+          skillName: "Selenium",
+          fontAwesomeClassname: "simple-icons:selenium",
           style: {
-            color: "#000000",
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "logos:nextjs-icon",
+          style: {
+            color: "gray",
           },
         },
         {
           skillName: "Jest",
-          fontAwesomeClassname: "simple-icons:jest",
+          fontAwesomeClassname: "logos:jest",
           style: {
             color: "#CC6699",
           },
         },
         {
           skillName: "Cypress",
-          fontAwesomeClassname: "simple-icons:cypress",
+          fontAwesomeClassname: "logos:cypress-icon",
           style: {
             color: "#443399",
           },
         },
         {
           skillName: "Mocha",
-          fontAwesomeClassname: "simple-icons:mocha",
+          fontAwesomeClassname: "logos:mocha",
           style: {
             color: "#61KAFB",
           },
         },
         {
           skillName: "Swagger",
-          fontAwesomeClassname: "simple-icons:swagger",
+          fontAwesomeClassname: "logos:swagger",
           style: {
             color: "#CB3837",
           },
@@ -231,7 +245,7 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Deploying learning models on Netlify and Vercel.",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
@@ -296,6 +310,13 @@ const skills = {
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#47A248",
+          },
+        },
+        {
+          skillName: "Vercel",
+          fontAwesomeClassname: "simple-icons:vercel",
+          style: {
+            color: "gray",
           },
         },
         {
@@ -377,7 +398,7 @@ const skills = {
         },
         {
           skillName: "Mongoose",
-          fontAwesomeClassname: "simple-icons:mongoose",
+          fontAwesomeClassname: "simple-icons:mongoosedotws",
           style: {
             backgroundColor: "",
             color: "red",
@@ -685,26 +706,25 @@ const experience = {
         {
           title: "Technical Intern",
           company: "Apurva Automobiles.",
-          company_url: "https://apurvaautomobiles.com/",
+          company_url: "https://jsdl.in/DT-49PH8SVW",
           logo_path: "apurva_logo.jpeg",
-          duration: "Nov 2015 - Dec 2015",
+          duration: "Nov 2016 - Dec 2016",
           location: "Junnar, Maharashtra",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
         },
-        // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
-        //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
-        // },
+        {
+          title: "Learning Intern",
+          company: "Vidyarthi Computers",
+          company_url:"https://jsdl.in/DT-49QGCJSJ",
+          logo_path: "vidyarthi_logo.png",
+          duration: "July 2019 - Dec 2019",
+          location: "Junnar, Maharashtra",
+          description:
+            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+          color: "#0071C5",
+        },
       ],
     },
     {
@@ -835,32 +855,32 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "vaibhav_more.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with DSA, React, Web & App Development,DB,Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://medium.com/@vaibhavmore24051997/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+      "Shiroli Khurd, Junnar, T.A.-Junnar, Dist.-Pune, Maharashtra - 410511",
+    locality: "Junnar",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Maharashtra",
+    postalCode: "410511",
+    streetAddress: "Shiroli Khurd",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/PR1PVPj8czS59xiRA",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Email Me",
+    subtitle: "mvaibhav131@gmail.com",
   },
 };
 
