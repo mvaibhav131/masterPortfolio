@@ -189,6 +189,13 @@ const skills = {
           },
         },
         {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "logos:bootstrap",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
           skillName: "Yarn",
           fontAwesomeClassname: "simple-icons:yarn",
           style: {
@@ -668,7 +675,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as Frontend and Backend Developer, Designer,Tester and Software Engineer. I have also worked with some well established companies mostly as Full Stack Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -683,7 +690,7 @@ const experience = {
           duration: "June 2023 - Present",
           location: "Bangalore, Karnataka",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "In my current capacity as a Senior Software Engineer at Esyasoft Technology, I have taken on a leadership role in the frontend domain, leveraging React.js and Redux to architect sophisticated user interfaces that seamlessly integrate with backend systems. Additionally, I have harnessed the power of AWS and Node.js for efficient deployment and smooth functioning of applications. My proficiency extends to incorporating Swagger for meticulous API documentation and Jira for streamlined project management. To ensure code integrity, I've utilized SCSS for creating structured and visually appealing styles. As a senior team member, I've undertaken the responsibility of managing and coordinating tasks, drawing upon my comprehensive skill set. Furthermore, my dedication to quality assurance is reflected in my adept use of automation testing tools, ensuring code robustness and optimal user experiences.",
           color: "#0879bf",
         },
         {
@@ -694,7 +701,7 @@ const experience = {
           duration: "Sept 2022 - June 2023",
           location: "Pune, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Embarking on a new chapter at Growthpal Technology as a software engineer, I embraced a dynamic role that spanned both backend and frontend realms. In the backend landscape, I skillfully orchestrated operations utilizing a repertoire of technologies such as Swagger, Express.js, Node.js, AWS, and Kubernetes, elevating functionality and reliability. My proficiency further extended to automated testing, where I adeptly employed Jest, Mocha, and Supertest to ensure the robustness of the codebase. Simultaneously, in the frontend domain, I harnessed the power of React.js and Redux to craft immersive user interfaces, enhancing user experiences with responsive design and maintaining code scalability. Additionally, I employed SCSS to bring creativity and structure to the styles. My commitment to automation led me to utilize Cypress, an automation tool, which significantly streamlined testing processes",
           color: "#9b1578",
         },
         {
@@ -705,7 +712,7 @@ const experience = {
           duration: "Nov 2021 - Sept 2022",
           location: "Pune, Maharashtra",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "As a software developer at Cognizant, I held a pivotal role focused on database management, encompassing a wide spectrum from SQL and NoSQL to Oracle databases. I adeptly navigated through these diverse database technologies, harnessing their potential to enhance software solutions and drive optimal performance.",
           color: "#fc1f20",
         },
       ],
@@ -721,7 +728,7 @@ const experience = {
           duration: "May 2017 - Nov 2018",
           location: "Chakan, Maharashtra",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "My internship journey further evolved at Fukoku India Pvt Ltd, where I held the position of a Technical Engineer. In this pivotal role, I took on the responsibility of ensuring product quality through meticulous testing and actively contributed to the assembly process. This experience not only heightened my technical acumen but also allowed me to contribute significantly to the operational efficiency and reliability of a diverse range of products.",
           color: "#000000",
         },
         {
@@ -732,7 +739,7 @@ const experience = {
           duration: "Nov 2016 - Dec 2016",
           location: "Junnar, Maharashtra",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "At Apurva Automobile, my role as a technical intern provided me with hands-on exposure to the intricate world of automotive mechanics. I delved into the diverse components that constitute an automobile and gained expertise in their assembly. This immersive experience equipped me with a practical understanding of the mechanical intricacies driving the automotive industry.",
           color: "#ee3c26",
         },
         {
@@ -743,7 +750,7 @@ const experience = {
           duration: "July 2019 - Dec 2019",
           location: "Junnar, Maharashtra",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "During my internship tenure at Vidyathri Computers, I engaged in a valuable learning opportunity by focusing on improving my typing skills. This experience not only enhanced my proficiency in efficient keyboard usage but also laid a foundation for effective communication in the digital realm.",
           color: "#0071C5",
         },
       ],
@@ -752,60 +759,37 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          title: "Contributor to Academic Research Dissemination: IJESRM Volunteer Project.",
+          company: "IJESRM",
+          company_url: "https://ijsrem.com/",
+          logo_path: "ijsem.png",
           duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          location: "pune, Maharashtra",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Embarking on a meaningful volunteering journey, I was fortunate to contribute to a transformative project at IJESRM (International Journal of Engineering Science & Management Research). Within this role, I actively engaged in diverse responsibilities, including research assistance and content curation. Collaborating closely with esteemed professionals in the field, I played a vital part in the publication process, gaining valuable insights into the intricate world of academic research dissemination.",
           color: "#4285F4",
         },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          title: "Showcasing Expertise: State Level Technophilia Paper Presentation",
+          company: "MSBTE",
+          company_url: "https://msbte.org.in/",
+          logo_path: "msbte.png",
+          duration: "Aug 2014 - May 2015",
+          location: "pune, Maharashtra",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Participated in the State Level Technophilia Paper Presentation, where I showcased my research and communication skills through a well-received presentation on engineer project. This experience not only honed my ability to convey complex ideas effectively but also provided me with the opportunity to engage with fellow enthusiasts and experts in the field.",
           color: "#D83B01",
         },
         {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          title: "Technical Proficiencies in Action: Volunteering with AutoCAD, ProE, and CATIA",
+          company: "Autodesk",
+          company_url: "https://www.autodesk.com/",
+          logo_path: "Autodesk-Logo.jpg",
+          duration: "Oct 2018 - May 2020",
+          location: "Junnar,Maharashtra",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "Employing my certified skills in AutoCAD, ProE, and CATIA, I actively volunteered with jaihind College to contribute to design project. My expertise in these software tools enabled me to design the 3d parts, showcasing the practical application of my technical proficiencies for a meaningful cause.",
           color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
         },
       ],
     },

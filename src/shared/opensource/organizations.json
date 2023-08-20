@@ -27,8 +27,8 @@
             "__typename": "Organization"
         },
         {
-            "login": "MERN",
-            "avatarUrl": "https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/mernfullstackwebdevelopercertificationtraining-mobile.png",
+            "login": "GitBash",
+            "avatarUrl": "https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png",
             "__typename": "Organization"
         },
         {
@@ -137,8 +137,8 @@
             "__typename": "Organization"
         },
         {
-            "login": "Kibana",
-            "avatarUrl": "https://w7.pngwing.com/pngs/131/974/png-transparent-kibana-elasticsearch-scalable-graphics-logo-logstash-chess24-angle-text-rectangle.png",
+            "login": "Postman",
+            "avatarUrl": "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
             "__typename": "Organization"
         },
         {
