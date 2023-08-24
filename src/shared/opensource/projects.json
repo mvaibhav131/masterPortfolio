@@ -4,8 +4,10 @@
             "id": "R_kgDOJq75dg",
             "name": "react-movie-app",
             "createdAt": "2023-06-03T13:16:00Z",
+            "poster_url":"https://user-images.githubusercontent.com/98808183/243316784-26e544ab-4ecc-40b5-b32e-fa640e0866f1.png",
             "url": "https://github.com/mvaibhav131/react-movie-app",
-            "description": "creating movie app with details features",
+            "view_url":"https://vaibhav-react-movie-app.netlify.app/",
+            "description": "Creating movie app with details features",
             "isFork": false,
             "languages": [
                 {
@@ -15,6 +17,56 @@
                 {
                     "name": "HTML",
                     "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "SASS",
+                    "iconifyClass": "logos-sass"
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"
+                },
+                {
+                    "name": "Axios",
+                    "iconifyClass": "simple-icons:axios"
+                },
+              
+                {
+                    "name": "Netlify",
+                    "iconifyClass": "vscode-icons:file-type-light-netlify"
+                },
+               
+                {
+                    "name": "Responsive",
+                    "iconifyClass": "mdi:responsive"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos:css-3"
+                },
+                {
+                    "name": "React-Vite",
+                    "iconifyClass": "logos:vitejs"
+                },
+                {
+                    "name": "PNPM",
+                    "iconifyClass": "devicon:pnpm"
+                },
+                {
+                    "name": "Dot ENV",
+                    "iconifyClass": "vscode-icons:file-type-dotenv"
+                },
+                {
+                    "name": "Deployment",
+                    "iconifyClass": "flat-color-icons:deployment"
+                },
+                {
+                    "name": "YAML",
+                    "iconifyClass": "vscode-icons:file-type-yaml"
+                },
+                {
+                    "name": "Shell",
+                    "iconifyClass": "simple-icons:shell"
                 }
             ]
         },
@@ -22,7 +74,9 @@
             "id": "R_kgDOHtYDSA",
             "name": "Pharmeasy-Clone",
             "createdAt": "2022-07-24T14:11:32Z",
+            "poster_url":"https://user-images.githubusercontent.com/100186167/180634476-9259d2c9-1c3f-40eb-9376-3b6b3723d78b.png",
             "url": "https://github.com/mvaibhav131/Pharmeasy-Clone",
+            "view_url":"https://pharmeasylion.vercel.app/",
             "description": "The website is used to purchase online medicines & product..",
             "isFork": false,
             "languages": [
@@ -37,6 +91,10 @@
                 {
                     "name": "CSS",
                     "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "Vercel",
+                    "iconifyClass": "simple-icons:vercel"
                 }
             ]
         },
@@ -44,7 +102,9 @@
             "id": "R_kgDOJLKTzA",
             "name": "Calculator-ReactTs",
             "createdAt": "2023-03-18T11:24:34Z",
+            "poster_url":"https://user-images.githubusercontent.com/98808183/226107987-4b3de6c1-0a2a-4ddb-bb38-3d8116bade3a.png",
             "url": "https://github.com/mvaibhav131/Calculator-ReactTs",
+            "view_url":"https://vaibhav-react-ts-calculator.netlify.app/",
             "description": "React typescript calculator",
             "isFork": false,
             "languages": [
@@ -68,9 +128,11 @@
         },
         {
             "id": "R_kgDOHf5xkQ",
-            "name": "unit-5-full-stack-BellaVitaOrganic-project",
+            "name": "BellaVitaOrganic-clone",
             "createdAt": "2022-06-14T05:00:25Z",
+            "poster_url":"https://user-images.githubusercontent.com/98808183/180653174-8eafc9af-cc9b-4891-a528-ccd7538f2249.png",
             "url": "https://github.com/Bhupesh1114/unit-5-full-stack-BellaVitaOrganic-project",
+            "view_url":"https://phenomenal-capybara-4dee83.netlify.app/",
             "description": "Bella Vita Organic or 'The Good Life' is a leading natural beauty and skincare brand committed to building handcrafted, natural solutions invigorated by the natural elements of the earth and ancient skin and hair care practices.",
             "isFork": false,
             "languages": [
@@ -96,6 +158,8 @@
             "id": "R_kgDOHRkhdA",
             "name": "DermStore",
             "createdAt": "2022-05-03T11:40:03Z",
+            "poster_url":"https://camo.githubusercontent.com/c6d1939c9ce00921b8b40863998173871d4ec1fe6c778f1d109657982c6200e8/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333834302f312a496c76624248377962536a5a6e643376564d63496d412e706e67",
+            "view_url":"https://beamish-tartufo-8757f9.netlify.app/",
             "url": "https://github.com/Surya737673/DermStore",
             "description": "Dermstore is a skin care and beauty e-commerce site in the United States.",
             "isFork": false,

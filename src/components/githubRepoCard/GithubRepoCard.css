@@ -2,7 +2,6 @@
   color: rgb(88, 96, 105);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 2rem;
-  cursor: pointer;
   flex: 1 1 25%;
 }
 .repo-card-div:hover {
@@ -81,17 +80,86 @@
 }
 
 .repo-creation-date {
-  margin: 0;
+  margin: 6px;
   font-family: "Google Sans Regular";
   font-weight: 400;
   margin-left: 0px;
   margin-right: auto;
+ }
+.repo-creation-date subTitle{
+  width:5px;
+}
+.repo-languages {
+  display: flex;
+  justify-content: flex-start;
+}
+.repo-card-div {
+  color: rgb(88, 96, 105);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+  padding: 1rem; /* Reduced padding */
+  display: flex; /* Added display flex to use flex properties */
+  flex-direction: column; /* Added flex direction to arrange elements vertically */
 }
 
-.repo-languages {
-  margin-left: auto;
-  margin-right: 0px;
+.repo-avatar-div {
+  flex: 1; /* Take up half of the card's height */
 }
+
+.repo-avatar {
+  width: 100%; /* Take up full width of the card */
+  height: 100%; /* Take up full height of the avatar div */
+  border-radius: 8px; /* Rounded corners */
+  object-fit: cover;
+}
+.repo-avatar:hover{
+  transform: scale(1.05);
+}
+
+.repo-details {
+  flex: 1; /* Take up the remaining space */
+  display: flex;
+  flex-direction: column; /* Arrange elements vertically */
+  justify-content: space-between; /* Space out elements */
+  margin-top: 0.5rem; /* Add some spacing at the top */
+}
+
+/* Rest of the CSS remains the same */
+
+/* 
+.repo-avatar-div {
+  text-align: center;
+  margin-bottom: 1rem;
+} */
+
+/* .repo-avatar {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+} */
+.repo-buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.view-project-button,
+.source-code-button {
+  background-color: #007bff;
+  border-radius: 6px;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-left: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.view-project-button:hover,
+.source-code-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
 
 @media (max-width: 1200px) {
   .repo-card-div {
