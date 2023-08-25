@@ -1,5 +1,6 @@
 .repo-card-div {
   color: rgb(88, 96, 105);
+  border-radius: 2rem;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 2rem;
   flex: 1 1 25%;

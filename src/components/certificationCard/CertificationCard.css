@@ -1,6 +1,7 @@
 .cert-card {
   width: 30%;
   display: inline-block;
+  cursor: pointer;
   justify-content: center;
   align-items: center;
   text-align: center;

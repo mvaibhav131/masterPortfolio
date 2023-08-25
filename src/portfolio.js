@@ -590,8 +590,8 @@ const certifications = {
       title: "Fullstack Development",
       subtitle: "- Masai School",
       logo_path: "masai_logo.png",
-      // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      certificate_link:
+        "https://drive.google.com/file/d/1aEBsZLv6HWkKpuVgrAxdXsyShaGEDGjV/view?usp=sharing",
       alt_name: "masai",
       color_code: "black",
     },
@@ -599,8 +599,8 @@ const certifications = {
       title: "Dockerization and Containerization",
       subtitle: "- Scalar Academy",
       logo_path: "scalar_logo.jpg",
-      // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+      certificate_link:
+        "https://drive.google.com/file/d/11Noqko6rh5q9Is9QTBR7IfQKaOpl6L4g/view?usp=sharing",
       alt_name: "scalar",
       color_code: "white",
     },
@@ -608,8 +608,8 @@ const certifications = {
       title: "Data Structure & Algorithms",
       subtitle: "- Masai School",
       logo_path: "masai_logo.png",
-      // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+      certificate_link:
+        "https://drive.google.com/file/d/1aEBsZLv6HWkKpuVgrAxdXsyShaGEDGjV/view?usp=sharing",
       alt_name: "masai",
       color_code: "black",
     },
@@ -637,8 +637,26 @@ const certifications = {
       title: "Kuberenetes on GCP",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
-      // certificate_link:
-      //   "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+      certificate_link:
+        "https://cloud.google.com/",
+      alt_name: "GCP",
+      color_code: "#4285F499",
+    },
+    {
+      title: "Java Basics",
+      subtitle: "- HackerRank",
+      logo_path: "hackerrank_logo.png",
+      certificate_link:
+        "https://www.hackerrank.com/",
+      alt_name: "hackerrank",
+      color_code: "green",
+    },
+    {
+      title: "Cloud Architecture",
+      subtitle: "- Qwiklabs",
+      logo_path: "gcp_logo.png",
+      certificate_link:
+        "https://cloud.google.com/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -646,28 +664,10 @@ const certifications = {
       title: "Typing (Silver)",
       subtitle: "- Ratatype",
       logo_path: "ratatype-cloud.webp",
-      // certificate_link:
-      //   "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+      certificate_link:
+        "https://drive.google.com/file/d/11Q8RgV2c_Xv4x57oP8Gh78ZJdIxCHajj/view?usp=sharing",
       alt_name: "ratatype_logo.png",
       color_code: "gray",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      // certificate_link:
-      //   "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-     {
-      title: "Java Basics",
-      subtitle: "- HackerRank",
-      logo_path: "hackerrank_logo.png",
-      // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "hackerrank",
-      color_code: "green",
     },
   ],
 };
@@ -817,44 +817,20 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "AI-Driven Music Composition: Exploring Creativity and Collaboration between Humans and Machines.",
+      createdAt: "2023-08-26T16:26:54Z",
+      description: "AI-powered music composition offers a transformative approach to creative expression, providing a platform for collaboration between human emotion and computational innovation. ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://ijsrem.com/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "A Comparative Analysis of Automated Test Case Generation Techniques.",
+      createdAt: "2023-08-26T16:26:54Z",
+      description: "In the pursuit of efficient test case generation, this research provides insights into the strengths and weaknesses of model-based, combinatorial, and random testing techniques. The study aids developers in selecting the appropriate technique based on project demands and priorities. ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://ijsrem.com/",
     },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
   ],
 };
 
