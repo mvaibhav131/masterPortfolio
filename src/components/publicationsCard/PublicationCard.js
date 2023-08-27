@@ -14,7 +14,7 @@ export default function PublicationCard({ pub, theme }) {
       style={{ backgroundColor: theme.highlight }}
     >
       <Fade bottom duration={2000} distance="40px">
-        <div key={pub.id} onClick={() => openPubinNewTab(pub.url)}>
+        <div key={pub.id}>
           <div className="publication-name-div">
             <p className="publication-name" style={{ color: theme.text }}>
               {pub.name}
@@ -27,9 +27,14 @@ export default function PublicationCard({ pub, theme }) {
             <p
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
-            >
-              Published on {pub.createdAt.split("T")[0]}
+            > Research Paper ID : IJSREM25458 <br/>
+              Published on : {pub.createdAt.split("T")[0]}
             </p>
+            <div className="repo-buttons">
+            <button className="view-project-button" onClick={() => openPubinNewTab(pub.url)}>
+              View Certificate
+            </button>
+          </div>
           </div>
           {/* <div className="repo-stats">
           <div className="repo-left-stat">

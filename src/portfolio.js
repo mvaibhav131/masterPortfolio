@@ -821,15 +821,15 @@ const publications = {
       createdAt: "2023-08-26T16:26:54Z",
       description: "AI-powered music composition offers a transformative approach to creative expression, providing a platform for collaboration between human emotion and computational innovation. ",
       url:
-        "https://ijsrem.com/",
+        "https://drive.google.com/file/d/1GxxjCIbgyJo1evUigJa4kQyy6dRL8xt_/view?usp=drivesdk ",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "A Comparative Analysis of Automated Test Case Generation Techniques.",
+      name: "Enhancing Software Testing Efficiency : A Comparative Analysis of Automated Test Case Generation Techniques.",
       createdAt: "2023-08-26T16:26:54Z",
       description: "In the pursuit of efficient test case generation, this research provides insights into the strengths and weaknesses of model-based, combinatorial, and random testing techniques. The study aids developers in selecting the appropriate technique based on project demands and priorities. ",
       url:
-        "https://ijsrem.com/",
+        "https://drive.google.com/file/d/1H50K1RMjJ5OZc-3rdFntpOlpRheumni_/view?usp=drivesdk ",
     },
   ],
 };
