@@ -47,12 +47,12 @@
                     "iconifyClass": "logos:css-3"
                 },
                 {
-                    "name": "SASS",
-                    "iconifyClass": "logos-sass"
+                    "name": "Firebase",
+                    "iconifyClass": "logos-firebase"
                 },
                 {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
+                    "name": "Tailwind",
+                    "iconifyClass": "logos:tailwindcss-icon"
                 },
                 {
                     "name": "NPM",
@@ -197,6 +197,10 @@
                 {
                     "name": "Dot ENV",
                     "iconifyClass": "vscode-icons:file-type-dotenv"
+                },
+                {
+                    "name":"Razorpay",
+                    "iconifyClass":"simple-icons:razorpay"
                 },
                 {
                     "name": "NODEJS",
