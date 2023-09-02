@@ -533,7 +533,7 @@ const degrees = {
       subtitle: "B.E. in Mechanical Engineering",
       logo_path: "sppu_img.png",
       alt_name: "SPPU pune",
-      duration: "2016 - 2020",
+      duration: "2017 - 2020",
       descriptions: [
         "⚡ I have studied basic mechanical engineering subjects like Thermodynamics,SOM,TOM,Design of Machine Element,NMO etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, DSA, Docker Cloud Computing and Full Stack Development.",
@@ -546,7 +546,7 @@ const degrees = {
       subtitle: "Diploma in Mechanical Engineering",
       logo_path: "msbte.png",
       alt_name: "MSBTE",
-      duration: "2013 - 2016",
+      duration: "2015 - 2017",
       descriptions: [
         "⚡ I learn the Fluid Mechanics and Machinery, Manufacturing Technology-I, Theory of Machines, Fluid Power Engineering, etc",
         "⚡ Apart from this, The subjects serve to familiarize with basic concepts of thermodynamics, solid mechanics, metallurgy, kinematics, control systems and even coding.",
