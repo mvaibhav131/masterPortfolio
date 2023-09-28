@@ -46,7 +46,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/@TechGitaGyan",
+    link: "https://www.youtube.com/@mvaibhav131",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -862,8 +862,8 @@ const contactPageData = {
     location_map_link: "https://goo.gl/maps/PR1PVPj8czS59xiRA",
   },
   phoneSection: {
-    title: "Email Me",
-    subtitle: "mvaibhav131@gmail.com",
+    title: "Mobile No",
+    subtitle: "+91 8308481276",
   },
 };
 
