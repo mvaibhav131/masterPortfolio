@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An enthusiastic Full Stack Developer driven by a relentless pursuit to craft comprehensive solutions that foster sustainable and scalable social and technical ecosystems, aiming to make a significant impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1CSI_3idq1qYhGUnZdaT-h9atkFvORsPy/view?usp=sharing",
+    "https://drive.google.com/file/d/1hDZEKRehGeMqvhrv9w_r_eAMrUKjRocu/view?usp=sharing",
   portfolio_repository: "https://github.com/mvaibhav131",
   githubProfile: "https://github.com/mvaibhav131",
 };
