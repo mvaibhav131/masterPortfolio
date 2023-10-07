@@ -661,11 +661,11 @@ const certifications = {
       color_code: "#4285F499",
     },
     {
-      title: "Typing (Silver)",
+      title: "Typing (Golden)",
       subtitle: "- Ratatype",
       logo_path: "ratatype-cloud.webp",
       certificate_link:
-        "https://drive.google.com/file/d/11Q8RgV2c_Xv4x57oP8Gh78ZJdIxCHajj/view?usp=sharing",
+        "https://www.ratatype.com/u5958471/certificate/en/",
       alt_name: "ratatype_logo.png",
       color_code: "gray",
     },
