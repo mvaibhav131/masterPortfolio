@@ -31,7 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/mvaibhav131",
@@ -154,6 +153,13 @@ const skills = {
           },
         },
         {
+          skillName: "AntDesign",
+          fontAwesomeClassname: "simple-icons:antdesign",
+          style: {
+            color: "blue",
+          },
+        },
+        {
           skillName: "Webpack",
           fontAwesomeClassname: "logos-webpack",
           style: {
@@ -161,10 +167,24 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Chai",
+          fontAwesomeClassname: "logos:chai",
           style: {
-            color: "#339933",
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "Material UI",
+          fontAwesomeClassname: "simple-icons:materialdesignicons",
+          style: {
+            color: "red",
+          },
+        },
+        {
+          skillName: "React Native",
+          fontAwesomeClassname: "tabler:brand-react-native",
+          style: {
+            color: "green",
           },
         },
         {
@@ -210,19 +230,20 @@ const skills = {
           },
         },
         {
-          skillName: "Chai",
-          fontAwesomeClassname: "logos:chai",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
           skillName: "Selenium",
           fontAwesomeClassname: "simple-icons:selenium",
           style: {
             color: "#339933",
           },
         },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:node-dot-js",
+          style: {
+            color: "blue",
+          },
+        },
+
         {
           skillName: "NextJS",
           fontAwesomeClassname: "logos:nextjs-icon",
@@ -313,6 +334,13 @@ const skills = {
           },
         },
         {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
@@ -320,17 +348,17 @@ const skills = {
           },
         },
         {
+          skillName: "Digital Ocean",
+          fontAwesomeClassname: "simple-icons:digitalocean",
+          style: {
+            color: "blue",
+          },
+        },
+        {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
           style: {
             color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
           },
         },
         {
@@ -363,7 +391,7 @@ const skills = {
         },
       ],
     },
-    
+
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
@@ -374,17 +402,17 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
             color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
           },
         },
         {
@@ -418,18 +446,18 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Apache Kafka",
-          fontAwesomeClassname: "simple-icons:apachekafka",
-          style: {
-            color: "black",
-          },
-        },
-        {
           skillName: "Mongoose",
           fontAwesomeClassname: "simple-icons:mongoosedotws",
           style: {
             backgroundColor: "",
             color: "red",
+          },
+        },
+        {
+          skillName: "Apache Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "black",
           },
         },
         {
@@ -459,6 +487,14 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
+    {
+      siteName: "Medium",
+      iconifyClassname: "simple-icons:medium",
+      style: {
+        color: "black",
+      },
+      profileLink: "https://medium.com/@vaibhavmore24051997",
+    },
     {
       siteName: "LeetCode",
       iconifyClassname: "simple-icons:leetcode",
@@ -613,7 +649,7 @@ const certifications = {
       alt_name: "masai",
       color_code: "black",
     },
-  
+
     // {
     //   title: "Big Data",
     //   subtitle: "- Kim Akers",
@@ -632,13 +668,12 @@ const certifications = {
     //   alt_name: "IBM",
     //   color_code: "#1F70C199",
     // },
-   
+
     {
       title: "Kuberenetes on GCP",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://cloud.google.com/",
+      certificate_link: "https://cloud.google.com/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -646,8 +681,7 @@ const certifications = {
       title: "Java Basics",
       subtitle: "- HackerRank",
       logo_path: "hackerrank_logo.png",
-      certificate_link:
-        "https://www.hackerrank.com/",
+      certificate_link: "https://www.hackerrank.com/",
       alt_name: "hackerrank",
       color_code: "green",
     },
@@ -655,8 +689,7 @@ const certifications = {
       title: "Cloud Architecture",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://cloud.google.com/",
+      certificate_link: "https://cloud.google.com/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -664,10 +697,26 @@ const certifications = {
       title: "Typing (Golden)",
       subtitle: "- Ratatype",
       logo_path: "ratatype-cloud.webp",
-      certificate_link:
-        "https://www.ratatype.com/u5958471/certificate/en/",
+      certificate_link: "https://www.ratatype.com/u5958471/certificate/en/",
       alt_name: "ratatype_logo.png",
-      color_code: "gray",
+      color_code: "silver",
+    },
+    {
+      title: "SSL Domain",
+      subtitle: "- GoDaddy",
+      logo_path: "GoDaddy-Logo.wine.png",
+      certificate_link: "https://www.godaddy.com/en-in",
+      alt_name: "godaddy logo",
+      color_code: "white",
+    },
+    {
+      title: "Software Testing",
+      subtitle: "- IJSREM",
+      logo_path: "ijsremlogo.webp",
+      certificate_link:
+        "https://drive.google.com/file/d/1H50K1RMjJ5OZc-3rdFntpOlpRheumni_/view",
+      alt_name: "ijsremlogo",
+      color_code: "orange",
     },
   ],
 };
@@ -725,7 +774,8 @@ const experience = {
         {
           title: "Technical Engineer",
           company: "Fukoku India Pvt Ltd.",
-          company_url: "https://www.fukoku-rubber.co.jp/english/product/index.html",
+          company_url:
+            "https://www.fukoku-rubber.co.jp/english/product/index.html",
           logo_path: "fukoku_logo.png",
           duration: "May 2017 - Nov 2018",
           location: "Chakan, Maharashtra",
@@ -747,7 +797,7 @@ const experience = {
         {
           title: "Learning Intern",
           company: "Vidyarthi Computers",
-          company_url:"https://jsdl.in/DT-49QGCJSJ",
+          company_url: "https://jsdl.in/DT-49QGCJSJ",
           logo_path: "vidyarthi_logo.png",
           duration: "July 2019 - Dec 2019",
           location: "Junnar, Maharashtra",
@@ -761,7 +811,8 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Contributor to Academic Research Dissemination: IJESRM Volunteer Project.",
+          title:
+            "Contributor to Academic Research Dissemination: IJESRM Volunteer Project.",
           company: "IJESRM",
           company_url: "https://ijsrem.com/",
           logo_path: "ijsem.png",
@@ -772,7 +823,8 @@ const experience = {
           color: "#4285F4",
         },
         {
-          title: "Showcasing Expertise: State Level Technophilia Paper Presentation",
+          title:
+            "Showcasing Expertise: State Level Technophilia Paper Presentation",
           company: "MSBTE",
           company_url: "https://msbte.org.in/",
           logo_path: "msbte.png",
@@ -783,7 +835,8 @@ const experience = {
           color: "#D83B01",
         },
         {
-          title: "Technical Proficiencies in Action: Volunteering with AutoCAD, ProE, and CATIA",
+          title:
+            "Technical Proficiencies in Action: Volunteering with AutoCAD, ProE, and CATIA",
           company: "Autodesk",
           company_url: "https://www.autodesk.com/",
           logo_path: "Autodesk-logos.webp",
@@ -817,17 +870,21 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "AI-Driven Music Composition: Exploring Creativity and Collaboration between Humans and Machines.",
+      name:
+        "AI-Driven Music Composition: Exploring Creativity and Collaboration between Humans and Machines.",
       createdAt: "2023-08-26T16:26:54Z",
-      description: "AI-powered music composition offers a transformative approach to creative expression, providing a platform for collaboration between human emotion and computational innovation. ",
+      description:
+        "AI-powered music composition offers a transformative approach to creative expression, providing a platform for collaboration between human emotion and computational innovation. ",
       url:
         "https://drive.google.com/file/d/1GxxjCIbgyJo1evUigJa4kQyy6dRL8xt_/view?usp=drivesdk ",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Enhancing Software Testing Efficiency : A Comparative Analysis of Automated Test Case Generation Techniques.",
+      name:
+        "Enhancing Software Testing Efficiency : A Comparative Analysis of Automated Test Case Generation Techniques.",
       createdAt: "2023-08-26T16:26:54Z",
-      description: "In the pursuit of efficient test case generation, this research provides insights into the strengths and weaknesses of model-based, combinatorial, and random testing techniques. The study aids developers in selecting the appropriate technique based on project demands and priorities. ",
+      description:
+        "In the pursuit of efficient test case generation, this research provides insights into the strengths and weaknesses of model-based, combinatorial, and random testing techniques. The study aids developers in selecting the appropriate technique based on project demands and priorities. ",
       url:
         "https://drive.google.com/file/d/1H50K1RMjJ5OZc-3rdFntpOlpRheumni_/view?usp=drivesdk ",
     },
@@ -838,7 +895,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "vaibhav_more.png",
+    profile_image_path: "vm.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with DSA, React, Web & App Development,DB,Cloud and Opensource Development.",
   },
@@ -863,7 +920,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Mobile No",
-    subtitle: "+91 8308481276",
+    subtitle: "+91-8308481276",
   },
 };
 

@@ -56,6 +56,12 @@
 }
 
 .contact-heading-img-div > * {
+  border-radius: 50%;
+  border: 6px solid black;
+  max-width: 60%;
+  height: auto;
+}
+.contact-heading-img-divs > * {
   max-width: 100%;
   height: auto;
 }
