@@ -402,6 +402,13 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "Jira",
+          fontAwesomeClassname: "logos:jira",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
@@ -429,13 +436,7 @@ const skills = {
             color: "#000000",
           },
         },
-        {
-          skillName: "Jira",
-          fontAwesomeClassname: "logos:jira",
-          style: {
-            color: "#000000",
-          },
-        },
+     
       ],
     },
     {
