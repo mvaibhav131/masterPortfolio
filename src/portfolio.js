@@ -167,6 +167,13 @@ const skills = {
           },
         },
         {
+          skillName: "Replit",
+          fontAwesomeClassname: "skill-icons:replit-light",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "Chai",
           fontAwesomeClassname: "logos:chai",
           style: {
@@ -513,6 +520,14 @@ const competitiveSites = {
       profileLink: "https://www.hackerrank.com/vaibhavmore2018/",
     },
     {
+      siteName: "Replit",
+      iconifyClassname: "skill-icons:replit-dark",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://replit.com/@VaibhavMore4",
+    },
+    {
       siteName: "Postman",
       iconifyClassname: "simple-icons:postman",
       style: {
@@ -527,6 +542,14 @@ const competitiveSites = {
         color: "black",
       },
       profileLink: "https://coderbyte.com/profile/mvaibhav131",
+    },
+    {
+      siteName: "CodeSandBox",
+      iconifyClassname: "cib:codesandbox",
+      style: {
+        color: "green",
+      },
+      profileLink: "https://codesandbox.io/u/mvaibhav131",
     },
     {
       siteName: "Codechef",
@@ -552,14 +575,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@mvaibhav131",
     },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/mvaibhav131",
-    },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/mvaibhav131",
+    // },
   ],
 };
 
