@@ -1,1148 +1,1136 @@
 {
-    "data": [
+  "data": [
+    {
+      "id": "R_kgDOJq75dg",
+      "name": "React Movie App",
+      "createdAt": "2023-06-03T13:16:00Z",
+      "poster_url": "https://user-images.githubusercontent.com/98808183/243316784-26e544ab-4ecc-40b5-b32e-fa640e0866f1.png",
+      "url": "https://github.com/mvaibhav131/react-movie-app",
+      "view_url": "https://vaibhav-react-movie-app.netlify.app/",
+      "description": " React Movie App is an interactive and user-friendly web application for browsing movies.",
+      "isFork": false,
+      "languages": [
         {
-            "id": "R_kgDOJq75dg",
-            "name": "React Movie App",
-            "createdAt": "2023-06-03T13:16:00Z",
-            "poster_url":"https://user-images.githubusercontent.com/98808183/243316784-26e544ab-4ecc-40b5-b32e-fa640e0866f1.png",
-            "url": "https://github.com/mvaibhav131/react-movie-app",
-            "view_url":"https://vaibhav-react-movie-app.netlify.app/",
-            "description": " React Movie App is an interactive and user-friendly web application for browsing movies.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "SASS",
-                    "iconifyClass": "logos-sass"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos:css-3"
-                },
-                {
-                    "name": "Firebase",
-                    "iconifyClass": "logos-firebase"
-                },
-                {
-                    "name": "Tailwind",
-                    "iconifyClass": "logos:tailwindcss-icon"
-                },
-                {
-                    "name": "NPM",
-                    "iconifyClass": "logos:npm-icon"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name":"Chakra UI",
-                    "iconifyClass":"simple-icons:chakraui"
-                },
-                {
-                    "name": "Shell",
-                    "iconifyClass": "simple-icons:shell"
-                }
-            ]
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
         {
-            "id": "R_kgDOHtYDSA",
-            "name": "Pharmeasy Clone",
-            "createdAt": "2022-07-24T14:11:32Z",
-            "poster_url":"https://user-images.githubusercontent.com/100186167/180634476-9259d2c9-1c3f-40eb-9376-3b6b3723d78b.png",
-            "url": "https://github.com/mvaibhav131/Pharmeasy-Clone",
-            "view_url":"https://pharmeasylion.vercel.app/",
-            "description": " PharmEasy website, featuring a modern user interface and functionalities similar to the original platform.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "MONGODB",
-                    "iconifyClass": "logos:mongodb-icon"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                {
-                    "name": "EXPRESSJS",
-                    "iconifyClass": "skill-icons:expressjs-dark"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                },
-                {
-                    "name": "NPM",
-                    "iconifyClass": "logos:npm-icon"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "Vercel",
-                    "iconifyClass": "simple-icons:vercel"
-                },
-                {
-                    "name":"Mongoose",
-                    "iconifyClass":"simple-icons:mongoosedotws"
-                },
-                {
-                    "name":"Chakra UI",
-                    "iconifyClass":"simple-icons:chakraui"
-                },
-                {
-                    "name":"Nodemon",
-                    "iconifyClass":"vscode-icons:file-type-nodemon"
-                },
-                {
-                    "name":"Razorpay",
-                    "iconifyClass":"simple-icons:razorpay"
-                }
-            ]
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "My Glamm Clone",
-            "createdAt": "2022-04-24T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/ebdf546d-68b7-42d5-bdd6-2c2e7dcc8043",
-            "view_url":"https://taupe-alfajores-6c25cc.netlify.app/",
-            "url": "https://github.com/mvaibhav131/glammproject",
-            "description": "Crafted a standard-compliant clone of the MyGlamm website, faithfully reproducing its features and design.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "NPM",
-                    "iconifyClass": "logos:npm-icon"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name":"Razorpay",
-                    "iconifyClass":"simple-icons:razorpay"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                }
-            ]
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
-            "id": "R_kgDOHf5xkQ",
-            "name": "Bella Vita Organic Clone",
-            "createdAt": "2022-07-24T05:00:25Z",
-            "poster_url":"https://user-images.githubusercontent.com/98808183/180653174-8eafc9af-cc9b-4891-a528-ccd7538f2249.png",
-            "url": "https://github.com/Bhupesh1114/unit-5-full-stack-BellaVitaOrganic-project",
-            "view_url":"https://phenomenal-capybara-4dee83.netlify.app/",
-            "description": "Engineered a faithful clone of the Bella Vita Organic website, capturing its essence and functionalities in the reproduction.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "MONGODB",
-                    "iconifyClass": "logos:mongodb-icon"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                {
-                    "name": "EXPRESSJS",
-                    "iconifyClass": "skill-icons:expressjs-dark"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                },
-                {
-                    "name": "Vercel",
-                    "iconifyClass": "simple-icons:vercel"
-                },
-               {
-                    "name": "Shell",
-                    "iconifyClass": "simple-icons:shell"
-                },
-                {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "NPM",
-                    "iconifyClass": "logos:npm-icon"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                }
-                
-            ]
+          "name": "SASS",
+          "iconifyClass": "logos-sass"
         },
         {
-            "id": "R_kgDOHRkhdA",
-            "name": "Derm Store Clone",
-            "createdAt": "2022-05-26T11:40:03Z",
-            "poster_url":"https://camo.githubusercontent.com/c6d1939c9ce00921b8b40863998173871d4ec1fe6c778f1d109657982c6200e8/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333834302f312a496c76624248377962536a5a6e643376564d63496d412e706e67",
-            "view_url":"https://beamish-tartufo-8757f9.netlify.app/",
-            "url": "https://github.com/Surya737673/DermStore",
-            "description": "Created an accurate clone of the Dermstore website, replicating its features and user experience.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "MONGODB",
-                    "iconifyClass": "logos:mongodb-icon"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                {
-                    "name": "EXPRESSJS",
-                    "iconifyClass": "skill-icons:expressjs-dark"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "Typescript",
-                    "iconifyClass": "logos:typescript-icon"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "NPM",
-                    "iconifyClass": "logos:npm-icon"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Vercel",
-                    "iconifyClass": "simple-icons:vercel"
-                },
-                {
-                    "name":"Shell",
-                    "iconifyClass":"simple-icons:shell"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                }
-            ]
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Myntra ",
-            "createdAt": "2023-05-31T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/cbb45ae1-7006-42bc-beea-b2718ef89a7a",
-            "view_url":"https://vaibhav-myntra-clone.netlify.app/",
-            "url": "https://github.com/mvaibhav131/myntra-react-redux",
-            "description": "Designed a replica of the Myntra website's main page, mirroring its layout and visual elements.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Typescript",
-                    "iconifyClass": "logos:typescript-icon"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-              
-            ]
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Live Weather",
-            "createdAt": "2022-05-22T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/b85653a4-ca1d-4b7b-ac4f-778dc163bf17",
-            "view_url":"https://vaibhav-weathers-app.netlify.app/",
-            "url": "https://github.com/mvaibhav131/WeatherApp",
-            "description": "Crafted a dynamic weather application using JavaScript, providing real-time weather updates and forecasts based on user's location or input.",
-            "isFork": false,
-            "languages": [
-               {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
         },
         {
-            "id": "R_kgDOJLKTzA",
-            "name": "Calculator ReactTs",
-            "createdAt": "2023-05-09T11:24:34Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/79694576-f8b9-4f4e-ad84-f21a8d2ccdcd",
-            "url": "https://github.com/mvaibhav131/Calculator-ReactTs",
-            "view_url":"https://vaibhav-react-ts-calculator.netlify.app/",
-            "description": "Built a calculator application using React with TypeScript, enabling precise mathematical computations and user-friendly interface.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Typescript",
-                    "iconifyClass": "logos:typescript-icon"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
-        },
-        
-        {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Analog Clock",
-            "createdAt": "2023-05-22T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/a3fa4762-e92d-4c9f-8961-1cf7410569c2",
-            "view_url":"https://vaibhav-analog-clocks.netlify.app/",
-            "url": "https://github.com/mvaibhav131/analog-clock-app",
-            "description": "Developed an analog clock component using React, offering a visual representation of real-time with hour, minute, and second hands.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Typescript",
-                    "iconifyClass": "logos:typescript-icon"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
-        },
-       
-        {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Movie MERN",
-            "createdAt": "2022-05-20T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/c853817a-2d3c-48a9-bf5c-0c0335e1418e",
-            "view_url":"https://ppap-react-movies.netlify.app/",
-            "url": "https://github.com/mvaibhav131/MovieApp-MERN",
-            "description": "Constructed a movie application using the MERN stack, allowing users to explore and discover movies, along with details, ratings, and other relevant information.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Digital Timer",
-            "createdAt": "2022-05-08T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/3307e871-b6aa-4438-9529-cb70197db70c",
-            "view_url":"https://vaibhav-digital-timer.netlify.app/",
-            "url": "https://github.com/mvaibhav131/digital-timer",
-            "description": "Created a digital timer component using ReactJS, enabling users to track and display time intervals accurately.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "CSS",
+          "iconifyClass": "logos:css-3"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Exploding Kitten Game",
-            "createdAt": "2022-04-17T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/e4fa2d97-1094-42ec-b600-2ed99307a311",
-            "view_url":"https://vaibhav-exploding-kitten.netlify.app/",
-            "url": "https://github.com/mvaibhav131/exploding-kitten-game",
-            "description": "Developed a digital version of the popular card game Exploding Kittens, offering an engaging and interactive gameplay experience online.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Movie Search",
-            "createdAt": "2022-04-08T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/36c1976f-6566-4c5d-8d97-0ae887e97677",
-            "view_url":"https://vaibhav-movie-app.netlify.app/",
-            "url": "https://github.com/mvaibhav131/Movie-Search-App",
-            "description": "Designed a movie search website using HTML, CSS, and JavaScript, allowing users to search and discover movies with interactive features and visuals.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "Dockerfile",
-                    "iconifyClass": "simple-icons:docker"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "Tailwind",
+          "iconifyClass": "logos:tailwindcss-icon"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Tic Tac Toe",
-            "createdAt": "2022-05-28T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/c889868d-6927-4769-b68c-9dc010318153",
-            "view_url":"https://vaibhavmoretictactoegame.netlify.app/",
-            "url": "https://github.com/mvaibhav131/TicTacToe",
-            "description": "Designed a digital version of the classic Tic-Tac-Toe game, offering a two-player interactive experience with a user-friendly interface.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-               
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
-        },
-       
-        {
-            "id": "R_kgDOHaVWeQ",
-            "name": "India Flag",
-            "createdAt": "2023-03-15T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/bc8b4eec-8c69-4878-a2dc-ebe9f288e3a3",
-            "view_url":"https://indian-flag-ten.vercel.app/",
-            "url": "https://github.com/mvaibhav131/indian-flag",
-            "description": "Created an animation of the Indian flag using HTML and CSS, showcasing the tricolor design with dynamic visuals.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-               
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "NPM",
+          "iconifyClass": "logos:npm-icon"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Cricket Schedule",
-            "createdAt": "2022-08-05T16:43:07Z",
-            "poster_url":"https://user-images.githubusercontent.com/98808183/183117215-448ee92f-cae8-4bf0-a272-c8f07a7256be.png",
-            "view_url":"https://github.com/mvaibhav131/Cricket.com",
-            "url": "https://github.com/mvaibhav131/Cricket.com",
-            "description": "Developed a cricket schedule application using React and TypeScript, allowing users to view upcoming cricket matches, dates, venues, and teams with an organized and user-friendly interface.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-              
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
         },
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "Happy Birthday Card",
-            "createdAt": "2022-03-15T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/e08b6a9f-b672-403f-ac60-5b5b8323b053",
-            "view_url":"https://aniket-moze-birthday.vercel.app/",
-            "url": "https://github.com/mvaibhav131/Happy-Birthday",
-            "description": "Crafted an interactive digital birthday card using HTML, CSS, and possibly JavaScript, providing a personalized and visually appealing way to send birthday wishes.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-                {
-                    "name": "Redux",
-                    "iconifyClass": "logos:redux"
-                },
-                {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-               
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                },
-                {
-                    "name": "React",
-                    "iconifyClass": "grommet-icons:reactjs"
-                }
-            ]
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
         },
-       
         {
-            "id": "R_kgDOHaVWeQ",
-            "name": "You Tube",
-            "createdAt": "2022-06-07T16:43:07Z",
-            "poster_url":"https://github.com/mvaibhav131/webologics/assets/98808183/0c2e65c7-403f-44ef-a4a3-1108e3fffd16",
-            "view_url":"https://vaibhav-youtube-web.netlify.app/",
-            "url": "https://github.com/mvaibhav131/YouTube",
-            "description": "Created a website resembling YouTube's interface using HTML, CSS, and JavaScript, offering a platform to display and play videos with interactive features.",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Axios",
-                    "iconifyClass": "simple-icons:axios"
-                },
-                {
-                    "name": "Netlify",
-                    "iconifyClass": "vscode-icons:file-type-light-netlify"
-                },
-                {
-                    "name": "Dot ENV",
-                    "iconifyClass": "vscode-icons:file-type-dotenv"
-                },
-               {
-                    "name": "PNPM",
-                    "iconifyClass": "devicon:pnpm"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-              
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "NODEJS",
-                    "iconifyClass": "logos:nodejs-icon-alt"
-                },
-                              {
-                    "name": "Responsive",
-                    "iconifyClass": "mdi:responsive"
-                }
-              
-            ]
+          "name": "Chakra UI",
+          "iconifyClass": "simple-icons:chakraui"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
         }
-    ]
+      ]
+    },
+    {
+      "id": "R_kgDOHtYDSA",
+      "name": "Pharmeasy Clone",
+      "createdAt": "2022-07-24T14:11:32Z",
+      "poster_url": "https://user-images.githubusercontent.com/100186167/180634476-9259d2c9-1c3f-40eb-9376-3b6b3723d78b.png",
+      "url": "https://github.com/mvaibhav131/Pharmeasy-Clone",
+      "view_url": "https://pharmeasylion.vercel.app/",
+      "description": " PharmEasy website, featuring a modern user interface and functionalities similar to the original platform.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MONGODB",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "EXPRESSJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "simple-icons:vercel"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "simple-icons:mongoosedotws"
+        },
+        {
+          "name": "Chakra UI",
+          "iconifyClass": "simple-icons:chakraui"
+        },
+        {
+          "name": "Nodemon",
+          "iconifyClass": "vscode-icons:file-type-nodemon"
+        },
+        {
+          "name": "Razorpay",
+          "iconifyClass": "simple-icons:razorpay"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "My Glamm Clone",
+      "createdAt": "2022-04-24T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/ebdf546d-68b7-42d5-bdd6-2c2e7dcc8043",
+      "view_url": "https://taupe-alfajores-6c25cc.netlify.app/",
+      "url": "https://github.com/mvaibhav131/glammproject",
+      "description": "Crafted a standard-compliant clone of the MyGlamm website, faithfully reproducing its features and design.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Razorpay",
+          "iconifyClass": "simple-icons:razorpay"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHf5xkQ",
+      "name": "Bella Vita Organic Clone",
+      "createdAt": "2022-07-24T05:00:25Z",
+      "poster_url": "https://user-images.githubusercontent.com/98808183/180653174-8eafc9af-cc9b-4891-a528-ccd7538f2249.png",
+      "url": "https://github.com/Bhupesh1114/unit-5-full-stack-BellaVitaOrganic-project",
+      "view_url": "https://phenomenal-capybara-4dee83.netlify.app/",
+      "description": "Engineered a faithful clone of the Bella Vita Organic website, capturing its essence and functionalities in the reproduction.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MONGODB",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "EXPRESSJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "simple-icons:vercel"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHRkhdA",
+      "name": "Derm Store Clone",
+      "createdAt": "2022-05-26T11:40:03Z",
+      "poster_url": "https://miro.medium.com/max/1400/1*YhSjMK-sMLQEWZ1c-7e9hg.jpeg",
+      "view_url": "https://beamish-tartufo-8757f9.netlify.app/",
+      "url": "https://github.com/Surya737673/DermStore",
+      "description": "Created an accurate clone of the Dermstore website, replicating its features and user experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MONGODB",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "EXPRESSJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "simple-icons:vercel"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Myntra ",
+      "createdAt": "2023-05-31T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/cbb45ae1-7006-42bc-beea-b2718ef89a7a",
+      "view_url": "https://vaibhav-myntra-clone.netlify.app/",
+      "url": "https://github.com/mvaibhav131/myntra-react-redux",
+      "description": "Designed a replica of the Myntra website's main page, mirroring its layout and visual elements.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Live Weather",
+      "createdAt": "2022-05-22T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/b85653a4-ca1d-4b7b-ac4f-778dc163bf17",
+      "view_url": "https://vaibhav-weathers-app.netlify.app/",
+      "url": "https://github.com/mvaibhav131/WeatherApp",
+      "description": "Crafted a dynamic weather application using JavaScript, providing real-time weather updates and forecasts based on user's location or input.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJLKTzA",
+      "name": "Calculator ReactTs",
+      "createdAt": "2023-05-09T11:24:34Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/79694576-f8b9-4f4e-ad84-f21a8d2ccdcd",
+      "url": "https://github.com/mvaibhav131/Calculator-ReactTs",
+      "view_url": "https://vaibhav-react-ts-calculator.netlify.app/",
+      "description": "Built a calculator application using React with TypeScript, enabling precise mathematical computations and user-friendly interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Typescript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Analog Clock",
+      "createdAt": "2023-05-22T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/a3fa4762-e92d-4c9f-8961-1cf7410569c2",
+      "view_url": "https://vaibhav-analog-clocks.netlify.app/",
+      "url": "https://github.com/mvaibhav131/analog-clock-app",
+      "description": "Developed an analog clock component using React, offering a visual representation of real-time with hour, minute, and second hands.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Typescript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Movie MERN",
+      "createdAt": "2022-05-20T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/c853817a-2d3c-48a9-bf5c-0c0335e1418e",
+      "view_url": "https://ppap-react-movies.netlify.app/",
+      "url": "https://github.com/mvaibhav131/MovieApp-MERN",
+      "description": "Constructed a movie application using the MERN stack, allowing users to explore and discover movies, along with details, ratings, and other relevant information.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Digital Timer",
+      "createdAt": "2022-05-08T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/3307e871-b6aa-4438-9529-cb70197db70c",
+      "view_url": "https://vaibhav-digital-timer.netlify.app/",
+      "url": "https://github.com/mvaibhav131/digital-timer",
+      "description": "Created a digital timer component using ReactJS, enabling users to track and display time intervals accurately.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Exploding Kitten Game",
+      "createdAt": "2022-04-17T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/e4fa2d97-1094-42ec-b600-2ed99307a311",
+      "view_url": "https://vaibhav-exploding-kitten.netlify.app/",
+      "url": "https://github.com/mvaibhav131/exploding-kitten-game",
+      "description": "Developed a digital version of the popular card game Exploding Kittens, offering an engaging and interactive gameplay experience online.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Movie Search",
+      "createdAt": "2022-04-08T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/36c1976f-6566-4c5d-8d97-0ae887e97677",
+      "view_url": "https://vaibhav-movie-app.netlify.app/",
+      "url": "https://github.com/mvaibhav131/Movie-Search-App",
+      "description": "Designed a movie search website using HTML, CSS, and JavaScript, allowing users to search and discover movies with interactive features and visuals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Tic Tac Toe",
+      "createdAt": "2022-05-28T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/c889868d-6927-4769-b68c-9dc010318153",
+      "view_url": "https://vaibhavmoretictactoegame.netlify.app/",
+      "url": "https://github.com/mvaibhav131/TicTacToe",
+      "description": "Designed a digital version of the classic Tic-Tac-Toe game, offering a two-player interactive experience with a user-friendly interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "India Flag",
+      "createdAt": "2023-03-15T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/bc8b4eec-8c69-4878-a2dc-ebe9f288e3a3",
+      "view_url": "https://indian-flag-ten.vercel.app/",
+      "url": "https://github.com/mvaibhav131/indian-flag",
+      "description": "Created an animation of the Indian flag using HTML and CSS, showcasing the tricolor design with dynamic visuals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Cricket Schedule",
+      "createdAt": "2022-08-05T16:43:07Z",
+      "poster_url": "https://user-images.githubusercontent.com/98808183/183117215-448ee92f-cae8-4bf0-a272-c8f07a7256be.png",
+      "view_url": "https://github.com/mvaibhav131/Cricket.com",
+      "url": "https://github.com/mvaibhav131/Cricket.com",
+      "description": "Developed a cricket schedule application using React and TypeScript, allowing users to view upcoming cricket matches, dates, venues, and teams with an organized and user-friendly interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "Happy Birthday Card",
+      "createdAt": "2022-03-15T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/e08b6a9f-b672-403f-ac60-5b5b8323b053",
+      "view_url": "https://aniket-moze-birthday.vercel.app/",
+      "url": "https://github.com/mvaibhav131/Happy-Birthday",
+      "description": "Crafted an interactive digital birthday card using HTML, CSS, and possibly JavaScript, providing a personalized and visually appealing way to send birthday wishes.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos:redux"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "grommet-icons:reactjs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHaVWeQ",
+      "name": "You Tube",
+      "createdAt": "2022-06-07T16:43:07Z",
+      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/0c2e65c7-403f-44ef-a4a3-1108e3fffd16",
+      "view_url": "https://vaibhav-youtube-web.netlify.app/",
+      "url": "https://github.com/mvaibhav131/YouTube",
+      "description": "Created a website resembling YouTube's interface using HTML, CSS, and JavaScript, offering a platform to display and play videos with interactive features.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "vscode-icons:file-type-light-netlify"
+        },
+        {
+          "name": "Dot ENV",
+          "iconifyClass": "vscode-icons:file-type-dotenv"
+        },
+        {
+          "name": "PNPM",
+          "iconifyClass": "devicon:pnpm"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "NODEJS",
+          "iconifyClass": "logos:nodejs-icon-alt"
+        },
+        {
+          "name": "Responsive",
+          "iconifyClass": "mdi:responsive"
+        }
+      ]
+    }
+  ]
 }

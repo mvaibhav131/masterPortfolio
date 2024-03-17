@@ -38,34 +38,22 @@ const socialMediaLinks = [
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
-    name: "YouTube",
-    link: "https://www.youtube.com/@mvaibhav131",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/vaibhav131/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "Instagram",
-    link: "https://www.instagram.com/mvaibhav131/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "red", // Reference https://simpleicons.org/?q=instagram
+    name: "YouTube",
+    link: "https://www.youtube.com/@mvaibhav131",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gitlab",
     link: "https://gitlab.com/mvaibhav131",
     fontAwesomeIcon: "fa-gitlab", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "orange", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/mvaibhav131/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
@@ -78,6 +66,18 @@ const socialMediaLinks = [
     link: "https://twitter.com/mvaibhav131",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  },
+  {
+    name: "Facebook",
+    link: "https://www.facebook.com/mvaibhav131/",
+    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  },
+  {
+    name: "Instagram",
+    link: "https://www.instagram.com/vaibhavmore1997/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 

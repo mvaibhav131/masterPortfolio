@@ -146,3 +146,23 @@
     font-size: 12px;
   }
 }
+
+select {
+  padding: 6px;
+  font-size: 16px;
+  border: 1px solid #b5b5b5;
+  border-radius: 5px;
+  margin-right: 20px;
+  color: #000000;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+}
+
+/* Style for dropdown options */
+select option {
+  font-size: 16px;
+  &:hover {
+    background-color: red;
+  }
+}
