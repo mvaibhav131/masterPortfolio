@@ -20,6 +20,7 @@ const Header = ({ theme }) => {
   const setTheme = useThemeStore((state) => state.setTheme);
   const themes = useThemeStore((state) => state.theme);
 
+  // for Select tab theme purpose
   let selectedTheme;
 
   // Switch-case statement to select the themes
@@ -70,10 +71,18 @@ const Header = ({ theme }) => {
       selectedTheme = "white";
   }
 
+  /// Selct tab theme Change
   const handleThemeChange = (e) => {
     const selectedTheme = e.target.value;
     setTheme(selectedTheme);
   };
+
+  /// Theme Change Button
+  const toggleTheme = () => {
+    const newTheme = themes === "white" ? "dark" : "white";
+    setTheme(newTheme);
+  };
+
   const link = settings.isSplash ? "/splash" : "home";
 
   return (
@@ -94,7 +103,7 @@ const Header = ({ theme }) => {
             <span className="navicon"></span>
           </label>
 
-          <div>
+          {/* <div>
             <select
               style={{
                 background: selectedTheme,
@@ -118,7 +127,9 @@ const Header = ({ theme }) => {
               <option value="pink">Pink Theme</option>
               <option value="brown">Brown Theme</option>
             </select>
-          </div>
+          </div> */}
+
+      
 
           <ul className="menu" style={{ backgroundColor: theme.body }}>
             <li>
@@ -194,6 +205,22 @@ const Header = ({ theme }) => {
               </NavLink>
             </li>
           </ul>
+
+          <div className="theme-toggle-container">
+      <input
+        type="checkbox"
+        id="theme-toggle"
+        className="theme-toggle-checkbox"
+        checked={themes=='dark'}
+        onChange={toggleTheme}
+        value={theme}
+      />
+      <label htmlFor="theme-toggle" className="theme-toggle-label">
+        <span className="theme-toggle-icon sun-icon">☀️</span>
+        <span className="theme-toggle-icon moon-icon">🌙</span>
+      </label>
+    </div>
+
         </header>
       </div>
     </Fade>

@@ -166,3 +166,71 @@ select option {
     background-color: red;
   }
 }
+
+
+
+/* ///////////////////////////////////////////
+Theme Button css */
+
+/* ThemeToggleButton.css */
+.theme-toggle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.theme-toggle-checkbox {
+  display: none;
+}
+
+.theme-toggle-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60px;
+  height: 30px;
+  background-color: #989793;
+  border-radius: 15px;
+  padding: 5px;
+  cursor: pointer;
+  position: relative;
+  transition: background-color 0.3s;
+}
+
+.theme-toggle-checkbox:checked + .theme-toggle-label {
+  background-color: #3f51b5;
+}
+
+.theme-toggle-icon {
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  transition: transform 0.3s;
+}
+
+.sun-icon {
+  left: 5px;
+}
+
+.moon-icon {
+  right: 5px;
+}
+
+.theme-toggle-checkbox:checked + .theme-toggle-label .sun-icon {
+  transform: translateX(30px);
+}
+
+.theme-toggle-checkbox:checked + .theme-toggle-label .moon-icon {
+  transform: translateX(-30px);
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
