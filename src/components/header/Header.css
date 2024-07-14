@@ -167,8 +167,6 @@ select option {
   }
 }
 
-
-
 /* ///////////////////////////////////////////
 Theme Button css */
 
@@ -177,7 +175,7 @@ Theme Button css */
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 20px;
+  margin: 13px;
 }
 
 .theme-toggle-checkbox {
