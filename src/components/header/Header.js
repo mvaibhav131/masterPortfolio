@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import "./Header.css";
 import { Fade } from "react-reveal";
 import { NavLink, Link } from "react-router-dom";
@@ -19,6 +19,18 @@ const onMouseOut = (event) => {
 const Header = ({ theme }) => {
   const setTheme = useThemeStore((state) => state.setTheme);
   const themes = useThemeStore((state) => state.theme);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 568);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
 
   // for Select tab theme purpose
   let selectedTheme;
@@ -128,7 +140,22 @@ const Header = ({ theme }) => {
               <option value="brown">Brown Theme</option>
             </select>
           </div> */}
-
+   
+   {/* agar mobile me ho to ye button yaha dikhega */}
+   { isMobile && <div className="theme-toggle-container">
+      <input
+        type="checkbox"
+        id="theme-toggle"
+        className="theme-toggle-checkbox"
+        checked={themes=='dark'}
+        onChange={toggleTheme}
+        value={theme}
+      />
+      <label htmlFor="theme-toggle" className="theme-toggle-label">
+        <span className="theme-toggle-icon sun-icon">☀️</span>
+        <span className="theme-toggle-icon moon-icon">🌙</span>
+      </label>
+    </div>}
       
 
           <ul className="menu" style={{ backgroundColor: theme.body }}>
@@ -206,7 +233,9 @@ const Header = ({ theme }) => {
             </li>
           </ul>
 
-          <div className="theme-toggle-container">
+          {/* agar mobile me nahi hai to button edhar dikhega */}
+
+          { !isMobile && <div className="theme-toggle-container">
       <input
         type="checkbox"
         id="theme-toggle"
@@ -220,7 +249,7 @@ const Header = ({ theme }) => {
         <span className="theme-toggle-icon moon-icon">🌙</span>
       </label>
     </div>
-
+}
         </header>
       </div>
     </Fade>
