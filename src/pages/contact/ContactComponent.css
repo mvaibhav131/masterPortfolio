@@ -57,7 +57,7 @@
 
 .contact-heading-img-div > * {
   border-radius: 50%;
-  border: 6px solid black;
+  border: 1px solid gray;
   max-width: 60%;
   height: auto;
 }
