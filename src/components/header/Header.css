@@ -27,6 +27,7 @@
 
 .header li a:hover,
 .header .menu-btn:hover {
+  border-radius: 20px;
   /* background-color: #A6E1FA; */
 }
 

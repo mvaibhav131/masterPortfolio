@@ -16,6 +16,10 @@
   flex: 1;
 }
 
+.pointer-none {
+  pointer-events: none;
+}
+
 .projects-heading-img-div {
   display: flex;
   align-items: center;
