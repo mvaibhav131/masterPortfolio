@@ -2,21 +2,22 @@
   "data": [
     {
       "id": "R_kgDOJq75dg",
-      "name": "React Movie App",
+      "name": "Watch Movie",
+      "sector": "Streaming Services",
       "createdAt": "2023-06-03T13:16:00Z",
       "poster_url": "https://user-images.githubusercontent.com/98808183/243316784-26e544ab-4ecc-40b5-b32e-fa640e0866f1.png",
       "url": "https://github.com/mvaibhav131/react-movie-app",
       "view_url": "https://vaibhav-react-movie-app.netlify.app/",
-      "description": " React Movie App is an interactive and user-friendly web application for browsing movies.",
+      "description": " React Watch Movie is an interactive and user-friendly web application for browsing movies.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
           "name": "React",
           "iconifyClass": "grommet-icons:reactjs"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         },
         {
           "name": "HTML",
@@ -79,6 +80,7 @@
     {
       "id": "R_kgDOHtYDSA",
       "name": "Pharmeasy Clone",
+      "sector": "E-Commerce - Healthcare",
       "createdAt": "2022-07-24T14:11:32Z",
       "poster_url": "https://user-images.githubusercontent.com/100186167/180634476-9259d2c9-1c3f-40eb-9376-3b6b3723d78b.png",
       "url": "https://github.com/mvaibhav131/Pharmeasy-Clone",
@@ -155,6 +157,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "My Glamm Clone",
+      "sector": "E-Commerce - Beauty & Cosmetics",
       "createdAt": "2022-04-24T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/ebdf546d-68b7-42d5-bdd6-2c2e7dcc8043",
       "view_url": "https://taupe-alfajores-6c25cc.netlify.app/",
@@ -211,6 +214,7 @@
     {
       "id": "R_kgDOHf5xkQ",
       "name": "Bella Vita Organic Clone",
+      "sector": "E-Commerce - Beauty & Wellness",
       "createdAt": "2022-07-24T05:00:25Z",
       "poster_url": "https://user-images.githubusercontent.com/98808183/180653174-8eafc9af-cc9b-4891-a528-ccd7538f2249.png",
       "url": "https://github.com/Bhupesh1114/unit-5-full-stack-BellaVitaOrganic-project",
@@ -287,6 +291,7 @@
     {
       "id": "R_kgDOHRkhdA",
       "name": "Derm Store Clone",
+      "sector": "E-Commerce - Beauty & Personal Care",
       "createdAt": "2022-05-26T11:40:03Z",
       "poster_url": "https://miro.medium.com/max/1400/1*YhSjMK-sMLQEWZ1c-7e9hg.jpeg",
       "view_url": "https://beamish-tartufo-8757f9.netlify.app/",
@@ -367,6 +372,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "Myntra ",
+      "sector": "E-Commerce - Fashion",
       "createdAt": "2023-05-31T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/cbb45ae1-7006-42bc-beea-b2718ef89a7a",
       "view_url": "https://vaibhav-myntra-clone.netlify.app/",
@@ -435,6 +441,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "Live Weather",
+      "sector": "Wheather Forecast",
       "createdAt": "2022-05-22T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/b85653a4-ca1d-4b7b-ac4f-778dc163bf17",
       "view_url": "https://vaibhav-weathers-app.netlify.app/",
@@ -495,6 +502,7 @@
     {
       "id": "R_kgDOJLKTzA",
       "name": "Calculator ReactTs",
+      "sector": "Finance",
       "createdAt": "2023-05-09T11:24:34Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/79694576-f8b9-4f4e-ad84-f21a8d2ccdcd",
       "url": "https://github.com/mvaibhav131/Calculator-ReactTs",
@@ -559,6 +567,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "Analog Clock",
+      "sector": "Digital",
       "createdAt": "2023-05-22T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/a3fa4762-e92d-4c9f-8961-1cf7410569c2",
       "view_url": "https://vaibhav-analog-clocks.netlify.app/",
@@ -622,7 +631,8 @@
     },
     {
       "id": "R_kgDOHaVWeQ",
-      "name": "Movie MERN",
+      "name": "Filmy Watch",
+      "sector": "Streaming Services",
       "createdAt": "2022-05-20T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/c853817a-2d3c-48a9-bf5c-0c0335e1418e",
       "view_url": "https://ppap-react-movies.netlify.app/",
@@ -683,6 +693,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "Digital Timer",
+      "sector": "Digital Time Forecast",
       "createdAt": "2022-05-08T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/3307e871-b6aa-4438-9529-cb70197db70c",
       "view_url": "https://vaibhav-digital-timer.netlify.app/",
@@ -743,6 +754,7 @@
     {
       "id": "R_kgDOHaVWeQ",
       "name": "Exploding Kitten Game",
+      "sector": "Gaming",
       "createdAt": "2022-04-17T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/e4fa2d97-1094-42ec-b600-2ed99307a311",
       "view_url": "https://vaibhav-exploding-kitten.netlify.app/",
@@ -802,67 +814,8 @@
     },
     {
       "id": "R_kgDOHaVWeQ",
-      "name": "Movie Search",
-      "createdAt": "2022-04-08T16:43:07Z",
-      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/36c1976f-6566-4c5d-8d97-0ae887e97677",
-      "view_url": "https://vaibhav-movie-app.netlify.app/",
-      "url": "https://github.com/mvaibhav131/Movie-Search-App",
-      "description": "Designed a movie search website using HTML, CSS, and JavaScript, allowing users to search and discover movies with interactive features and visuals.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Axios",
-          "iconifyClass": "simple-icons:axios"
-        },
-        {
-          "name": "Netlify",
-          "iconifyClass": "vscode-icons:file-type-light-netlify"
-        },
-        {
-          "name": "Dot ENV",
-          "iconifyClass": "vscode-icons:file-type-dotenv"
-        },
-        {
-          "name": "Redux",
-          "iconifyClass": "logos:redux"
-        },
-        {
-          "name": "PNPM",
-          "iconifyClass": "devicon:pnpm"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "NODEJS",
-          "iconifyClass": "logos:nodejs-icon-alt"
-        },
-        {
-          "name": "Responsive",
-          "iconifyClass": "mdi:responsive"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "grommet-icons:reactjs"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHaVWeQ",
       "name": "Tic Tac Toe",
+      "sector": "Gaming",
       "createdAt": "2022-05-28T16:43:07Z",
       "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/c889868d-6927-4769-b68c-9dc010318153",
       "view_url": "https://vaibhavmoretictactoegame.netlify.app/",
@@ -918,63 +871,8 @@
     },
     {
       "id": "R_kgDOHaVWeQ",
-      "name": "India Flag",
-      "createdAt": "2023-03-15T16:43:07Z",
-      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/bc8b4eec-8c69-4878-a2dc-ebe9f288e3a3",
-      "view_url": "https://indian-flag-ten.vercel.app/",
-      "url": "https://github.com/mvaibhav131/indian-flag",
-      "description": "Created an animation of the Indian flag using HTML and CSS, showcasing the tricolor design with dynamic visuals.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Axios",
-          "iconifyClass": "simple-icons:axios"
-        },
-        {
-          "name": "Netlify",
-          "iconifyClass": "vscode-icons:file-type-light-netlify"
-        },
-        {
-          "name": "Dot ENV",
-          "iconifyClass": "vscode-icons:file-type-dotenv"
-        },
-        {
-          "name": "Redux",
-          "iconifyClass": "logos:redux"
-        },
-        {
-          "name": "PNPM",
-          "iconifyClass": "devicon:pnpm"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "NODEJS",
-          "iconifyClass": "logos:nodejs-icon-alt"
-        },
-        {
-          "name": "Responsive",
-          "iconifyClass": "mdi:responsive"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "grommet-icons:reactjs"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHaVWeQ",
       "name": "Cricket Schedule",
+      "sector": "Sports Media",
       "createdAt": "2022-08-05T16:43:07Z",
       "poster_url": "https://user-images.githubusercontent.com/98808183/183117215-448ee92f-cae8-4bf0-a272-c8f07a7256be.png",
       "view_url": "https://github.com/mvaibhav131/Cricket.com",
@@ -1081,54 +979,6 @@
         {
           "name": "React",
           "iconifyClass": "grommet-icons:reactjs"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHaVWeQ",
-      "name": "You Tube",
-      "createdAt": "2022-06-07T16:43:07Z",
-      "poster_url": "https://github.com/mvaibhav131/webologics/assets/98808183/0c2e65c7-403f-44ef-a4a3-1108e3fffd16",
-      "view_url": "https://vaibhav-youtube-web.netlify.app/",
-      "url": "https://github.com/mvaibhav131/YouTube",
-      "description": "Created a website resembling YouTube's interface using HTML, CSS, and JavaScript, offering a platform to display and play videos with interactive features.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Axios",
-          "iconifyClass": "simple-icons:axios"
-        },
-        {
-          "name": "Netlify",
-          "iconifyClass": "vscode-icons:file-type-light-netlify"
-        },
-        {
-          "name": "Dot ENV",
-          "iconifyClass": "vscode-icons:file-type-dotenv"
-        },
-        {
-          "name": "PNPM",
-          "iconifyClass": "devicon:pnpm"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "NODEJS",
-          "iconifyClass": "logos:nodejs-icon-alt"
-        },
-        {
-          "name": "Responsive",
-          "iconifyClass": "mdi:responsive"
         }
       ]
     }
