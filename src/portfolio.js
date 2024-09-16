@@ -878,7 +878,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "Within my projects, I leverage a wide spectrum of state-of-the-art technology tools, encompassing both frontend and backend development. My forte lies in conceptualizing, building, and deploying web and mobile applications.",
+    "In my projects, I utilize a broad range of cutting-edge technologies across both frontend and backend development. I specialize in designing, building, and deploying high-performance web and mobile applications, ensuring seamless user experiences and scalable architecture.",
   avatar_image_path: "projects_image.svg",
 };
 
