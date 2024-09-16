@@ -13,6 +13,7 @@ import {
   publications,
 } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
+import ClientProjectsData from "../../shared/opensource/clientprojects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
 
@@ -49,6 +50,25 @@ class Projects extends Component {
             </div>
           </Fade>
         </div>
+        <Button
+          text={"Client Projects"}
+          className="project-button pointer-none"
+          // href={greeting.githubProfile}
+          newTab={false}
+          theme={theme}
+        />
+        <div className="repo-cards-div-main">
+          {ClientProjectsData.data.map((repo) => {
+            return <GithubRepoCard repo={repo} theme={theme} />;
+          })}
+        </div>
+        <Button
+          text={"Personal Projects"}
+          className="project-button pointer-none"
+          // href={greeting.githubProfile}
+          newTab={false}
+          theme={theme}
+        />
         <div className="repo-cards-div-main">
           {ProjectsData.data.map((repo) => {
             return <GithubRepoCard repo={repo} theme={theme} />;
